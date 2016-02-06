@@ -12,3 +12,5 @@
 hs_err_pid*
 calculator.class
 calculator.java~
+*.class~
+FrameMain.java~ Main.java~ calculator.java~
